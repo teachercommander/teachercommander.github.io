@@ -115,28 +115,7 @@ analytics:
 author:
   name             : "Seokhee Park(Emmanuel)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, I'm Seokhee Park, an educator, researcher, and lifelong learner passionate about computer science, education, and policy. With a background in English education and military service, I transitioned into elementary education while exploring the vast world of computer science and AI.
-
-Professional Background
-Former ROTC officer & artillery school graduate (Korean Army)
-Currently an elementary school teacher under Gyeonggi Provincial Office of Education
-Head of Curriculum Research at Daehan Teachers' Union
-Founder of "Dochang Republic", a statecraft & economic activity project for students
-Academic Interests
-Studying Computer Science at Korea National Open University
-Fields of interest:
-Programming & Algorithms (Python, C, C++, Java, JSP)
-AI & Machine Learning
-Data Structures & Databases
-Cybersecurity & UNIX Systems
-Publications & Contributions
-Former columnist at Korea Economic Daily's Junior Economy Magazine
-Member of Korea Economic Daily AI Advisory Board
-Published articles on education, technology, and policy
-Future Aspirations
-Pursuing an M.S. in Computer Science (OMSCS at Georgia Tech)
-Bridging education and technology to create innovative learning experiences
-Advocating for policy improvements in education and technology"
+  bio              : "Hello, I'm Seokhee Park, an educator, researcher, and lifelong learner passionate about computer science, education, and policy. With a background in English education and military service, I transitioned into elementary education while exploring the vast world of computer science and AI."
   location         : Siheung, Gyeonggi-do, South Korea
   email            :
   links:
