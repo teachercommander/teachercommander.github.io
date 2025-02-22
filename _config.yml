@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seokhee Park(Emmanuel)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello, I'm Seokhee Park, an educator, researcher, and lifelong learner passionate about computer science, education, and policy. With a background in English education and military service, I transitioned into elementary education while exploring the vast world of computer science and AI.
 
@@ -137,10 +137,10 @@ Future Aspirations
 Pursuing an M.S. in Computer Science (OMSCS at Georgia Tech)
 Bridging education and technology to create innovative learning experiences
 Advocating for policy improvements in education and technology"
-  location         : "Somewhere"
+  location         : Siheung, Gyeonggi-do, South Korea
   email            :
   links:
-    - label: "Email"
+    - label: "tkakqn@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
