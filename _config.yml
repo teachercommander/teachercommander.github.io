@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Commander's Operation Office"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Seokhee Park(Emmanuel Park)"
+description              : "Seokhee Park's private research & commander room."
 url                      : "https://teachercommander.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,28 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hello, I'm Seokhee Park, an educator, researcher, and lifelong learner passionate about computer science, education, and policy. With a background in English education and military service, I transitioned into elementary education while exploring the vast world of computer science and AI.
+
+Professional Background
+Former ROTC officer & artillery school graduate (Korean Army)
+Currently an elementary school teacher under Gyeonggi Provincial Office of Education
+Head of Curriculum Research at Daehan Teachers' Union
+Founder of "Dochang Republic", a statecraft & economic activity project for students
+Academic Interests
+Studying Computer Science at Korea National Open University
+Fields of interest:
+Programming & Algorithms (Python, C, C++, Java, JSP)
+AI & Machine Learning
+Data Structures & Databases
+Cybersecurity & UNIX Systems
+Publications & Contributions
+Former columnist at Korea Economic Daily's Junior Economy Magazine
+Member of Korea Economic Daily AI Advisory Board
+Published articles on education, technology, and policy
+Future Aspirations
+Pursuing an M.S. in Computer Science (OMSCS at Georgia Tech)
+Bridging education and technology to create innovative learning experiences
+Advocating for policy improvements in education and technology"
   location         : "Somewhere"
   email            :
   links:
